@@ -7,3 +7,14 @@ This repository contains instalation guide for **J.A.C.K. hammer editor** on deb
 We will be basing this guide using **25th-anniversary edition of Half-Life** and as for *GldSrc tools* we will be using for compilation **[Vluzacn's ZHLT v34](https://github.com/twhl-community/VHLT-V34)** and for model viewing we will be using **[SamVanheer's Half-life asset manager](https://github.com/SamVanheer/HalfLifeAssetManager)**.
 
 Further more, we will also take dive into solving dependencies issues that come with **post installed** J.A.C.K. hammer editor, from installer avaible on **[official J.A.C.K. webpage application installers](https://jack.hlfx.ru/en/download.html)**.
+
+
+## Reference list
+### Resources:
+- *Installers:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/installers)*** - includes: *JACK editor's .run file* ; *HLAM .deb file*
+- *Linux shared object files:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/sharedobjects)*** - includes: *libaudio2 so files*(both in 32 and 64 format)
+- *Compiled tools for map compilation:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/compiled_tools)*** - includes: *VHLT compilation tools* ; *ZHLT .wad and .fgd files*
+
+### Credits:
+
+*Main credits file: **[CREDITS.md](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/blob/master/CREDITS.md)***
