@@ -28,7 +28,7 @@ Further more, we will also take dive into solving dependencies issues that come 
 - SamVanheer *github **[account](https://github.com/SamVanheer)***
   
 **J.A.C.K. Game profile set-up**
-- Dimbeak: *[Youtube](https://www.youtube.com/user/Dimbark)* ; *[TWHL](https://twhl.info/index.php/user/view/5749)*
+- Dimbeak: ***[Youtube](https://www.youtube.com/user/Dimbark)*** ; ***[TWHL](https://twhl.info/index.php/user/view/5749)***
 
 **Libsound2 issue solution(my primary search which led to inclusion of dependency issues in this repo for JACK):**
 - ***[Github issue thread](https://github.com/ValveSoftware/steam-runtime/issues/709)***
