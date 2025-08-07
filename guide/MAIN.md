@@ -96,3 +96,16 @@ cp * <your vhlt binaries folder>
 ```
 
 Or follow my guide on how to build VHLT tools on your own ***[here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/blob/master/guide/VHLT.md)***.
+
+# The end
+
+Congratulations, you now have all needed assets and tools for proper functionality of J.A.C.K. on debian-like distro of gnu/linux.
+
+All that is left for you is to set up a game profile for GldSrc game of your choice.
+
+For this, I recommend ***[Dimebeak's game profile set up tutorial](https://www.youtube.com/watch?v=sjX96WdY9iE).*** It covers all you need to set up your profile.
+
+*Side notes:*
+- *Technical side note: When searching for files and executables in J.A.C.K. you will be forced to use gtk-file-manager. If you can't find hidden directories and files don't worry. Use **CTRL + H**, it will expose all hidden files, and won't translate to main application of file manager.*
+
+- *GTK Custom themes related side note: J.A.C.K. uses gtk library, which means it is gtk-themese complicit, however, custom themes may result in **unresponsive behavior of fill-the-screen** button on title bar of the application. However latest Gnome supports **edge snaping** use that to yeild similar results.*

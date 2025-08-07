@@ -23,6 +23,7 @@ Further more, we will also take dive into solving dependencies issues that come 
 **Vulcan's Half-Life tools:**
 - Zoner Half-Life tools author: *Sean "Zoner" Cavanaugh*
 - Vluzacn *email: vluzacn@163.com*
+- TWHL community: ***[main page](https://twhl.info/)*** ; ***[discord](https://discord.com/invite/NgN6JBu)***
 
 **Half-Life asset manager:**
 - SamVanheer *github **[account](https://github.com/SamVanheer)***
