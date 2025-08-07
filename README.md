@@ -8,6 +8,9 @@ We will be basing this guide using **25th-anniversary edition of Half-Life** and
 
 Further more, we will also take dive into solving dependencies issues that come with **post installed** J.A.C.K. hammer editor, from installer avaible on **[official J.A.C.K. webpage application installers](https://jack.hlfx.ru/en/download.html)**.
 
+## Main guide:
+- *Main guide structured to contain major steps in simplified manner, each containing link to more detailed sub-guide of each step* 
+
 
 # Reference list
 ### Credits:
