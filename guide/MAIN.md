@@ -90,4 +90,9 @@ Once you have done that, you can either download ready for you compiled tools fr
 
 If you chose to use compiled tools from my repo download all the contents **from:*[ (repo root)/resources/compiled_tools](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/compiled_tools)***
 
-Or follow my guide on how to build VHLT tools on your own
+And then copy and paste it, do it all from directory where you got compiled tools set installed.
+```sh
+cp * <your vhlt binaries folder>
+```
+
+Or follow my guide on how to build VHLT tools on your own ***[here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/blob/master/guide/VHLT.md)***.
