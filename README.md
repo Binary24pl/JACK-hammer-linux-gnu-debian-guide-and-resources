@@ -17,4 +17,19 @@ Further more, we will also take dive into solving dependencies issues that come 
 
 ### Credits:
 
-*Main credits file: **[CREDITS.md](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/blob/master/CREDITS.md)***
+**JACK hammer authors:**
+- Chain studios
+- Crystice Softworks
+- Community contributors
+  
+**Vulcan's Half-Life tools:**
+- Zoner Half-Life tools author: *Sean "Zoner" Cavanaugh*
+- Vluzacn *email: vluzacn@163.com*
+
+**Half-Life asset manager:**
+- SamVanheer *github **[account](https://github.com/SamVanheer)***
+
+**Libsound2 issue solution(my primary search which led to inclusion of dependency issues in this repo for JACK):**
+- ***[Github issue thread](https://github.com/ValveSoftware/steam-runtime/issues/709)***
+- *Issue reporter:* **[FreeSlave](https://github.com/FreeSlave)**
+- *Issue solution contributors:* **[FreeSlave](https://github.com/FreeSlave)** ; **[smcv](https://github.com/smcv)**
