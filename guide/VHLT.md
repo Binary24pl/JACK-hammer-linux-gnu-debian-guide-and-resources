@@ -24,7 +24,7 @@ cd ..
 Then, it has came time to compile binary tools to linux object format. Head to the **src** and then **zhlt-vluzacn** directory like this.
 
 ```sh
-cd src/zhlt-vluzacnn/
+cd src/zhlt-vluzacn/
 ```
 
 Then proceed to compile tools, with make command.
