@@ -43,3 +43,33 @@ cp libaudio.so.2 ~/JACK
 - *Side note:* **Remember to choose matching architecture!**
 
 **libaudio2 apt instalation guide: [here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/blob/master/guide/LIBA2.md)**
+
+## Getting HLAM on your system
+- *Side note:* Unfortunately this guide section will only work for **Debian-like gnu/linux distros** and only for **64-bit architecture**.
+- *Author note:* I will try to find in the future 32-bit architecture solution, or I will link whoever found such
+
+First step is to **get .deb file**, you can either get it from offical releases: ***[here](https://github.com/SamVanheer/HalfLifeAssetManager/releases)***, or from this repository: ***[here: (repo_root)/resources/installers](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/installers)***
+
+Go to the directory where you installed .deb file and run this command.
+```sh
+sudo apt install ./halflifeassetmanager_<version>_amd64.deb
+```
+
+And replace **\<version\>** with whatever version you are running, in our case it is ***3.0.0***.
+
+To verify if you have Half-life asset manager installed type:
+```sh
+which hlam
+```
+
+you should get this out put:
+```
+/usr/bin/hlam
+```
+
+When verifed, now you may install **Qt5 base**. If you are not on debian, search for "qtbase5-dev" library.
+
+If you are on debian-like distro run:
+```sh
+sudo apt install qtbase5-dev
+```
