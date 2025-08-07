@@ -1,6 +1,6 @@
 # J.A.C.K. hammer gnu linux, on debian-like distros, instalation guide and resources repository.
 
-## Intrudoction:
+## Introduction:
 This repository contains instalation guide for **J.A.C.K. hammer editor** on debian-like linux distribution(think Debian, Ubunutu, Linux mint, Pop_OS!).
 
 ## Content taken under consideration:
