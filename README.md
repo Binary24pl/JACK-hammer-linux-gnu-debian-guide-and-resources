@@ -9,12 +9,7 @@ We will be basing this guide using **25th-anniversary edition of Half-Life** and
 Further more, we will also take dive into solving dependencies issues that come with **post installed** J.A.C.K. hammer editor, from installer avaible on **[official J.A.C.K. webpage application installers](https://jack.hlfx.ru/en/download.html)**.
 
 
-## Reference list
-### Resources:
-- *Installers:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/installers)*** - includes: *JACK editor's .run file* ; *HLAM .deb file*
-- *Linux shared object files:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/sharedobjects)*** - includes: *libaudio2 so files*(both in 32 and 64 format)
-- *Compiled tools for map compilation:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/compiled_tools)*** - includes: *VHLT compilation tools* ; *ZHLT .wad and .fgd files*
-
+# Reference list
 ### Credits:
 
 **JACK hammer authors:**
@@ -33,3 +28,8 @@ Further more, we will also take dive into solving dependencies issues that come 
 - ***[Github issue thread](https://github.com/ValveSoftware/steam-runtime/issues/709)***
 - *Issue reporter:* **[FreeSlave](https://github.com/FreeSlave)**
 - *Issue solution contributors:* **[FreeSlave](https://github.com/FreeSlave)** ; **[smcv](https://github.com/smcv)**
+
+### Resources:
+- *Installers:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/installers)*** - includes: *JACK editor's .run file* ; *HLAM .deb file*
+- *Linux shared object files:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/sharedobjects)*** - includes: *libaudio2 so files*(both in 32 and 64 format)
+- *Compiled tools for map compilation:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/compiled_tools)*** - includes: *VHLT compilation tools* ; *ZHLT .wad and .fgd files*
