@@ -34,8 +34,12 @@ At this point, if your installed J.A.C.K. editor isn't launching, even if you ad
 
 - *Side note: libaudio2 isn't required to be anywhere in your system for J.A.C.K. to work, **it only has to be in the root directory of your installed J.A.C.K. files.***
 
-If you don't feel like installing libaudio2 files through *apt manager*, then you can get libaudio2 files ***[here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/sharedobjects)***, from this repo.
+If you don't feel like installing libaudio2 files through *apt manager*, then you can get libaudio2 files ***[here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/sharedobjects)***, from this repo. And use cp command from whereever you installed those files, or install them directly into the JACK root folder.
+- Copy command
+```sh
+cp libaudio.so.2 ~/JACK
+```
 
 - *Side note:* **Remember to choose matching architecture!**
 
-**libaudio2 apt instalation guide:**
+**libaudio2 apt instalation guide: [here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/blob/master/guide/LIBA2.md)**
