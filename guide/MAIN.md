@@ -73,3 +73,21 @@ If you are on debian-like distro run:
 ```sh
 sudo apt install qtbase5-dev
 ```
+
+## Getting VHLT tools
+
+First, let us create folder for our binaries and other tools included in VHLT package.
+
+I recommend doing it on your **home directory(~)**, and will refer to directory as *VHLT binaries root directory*. I recommend naming your binaries directory as **bin-vhlt**.
+
+Again we use mkdir on our home directory like that:
+```sh
+cd ~
+mkdir <your chosen name>
+```
+
+Once you have done that, you can either download ready for you compiled tools from this repo, or go to the VHLT repository and build tools yourself.
+
+If you chose to use compiled tools from my repo download all the contents **from:*[ (repo root)/resources/compiled_tools](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/compiled_tools)***
+
+Or follow my guide on how to build VHLT tools on your own
