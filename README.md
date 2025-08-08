@@ -8,7 +8,7 @@ We will be basing this guide using **25th-anniversary edition of Half-Life** and
 
 Further more, we will also take dive into solving dependencies issues that come with **post installed** J.A.C.K. hammer editor, from installer avaible on **[official J.A.C.K. webpage application installers](https://jack.hlfx.ru/en/download.html)**.
 
-## Main guide: *[(goto: MAIN.md)](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/blob/master/guide/MAIN.md)*
+## Main guide: *[(goto: MAIN.md)](./guide/MAIN.md)*
 - *Main guide structured to contain major steps in simplified manner, each containing link to more detailed sub-guide of each step* 
 
 
@@ -37,14 +37,16 @@ Further more, we will also take dive into solving dependencies issues that come 
 - *Issue solution contributors:* **[FreeSlave](https://github.com/FreeSlave)** ; **[smcv](https://github.com/smcv)**
 
 ### Resources:
-- *Installers:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/installers)*** - includes: *JACK editor's .run file* ; *HLAM .deb file*
-- *Linux shared object files:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/sharedobjects)*** - includes: *libaudio2 so files*(both in 32 and 64 format)
-- *Compiled tools for map compilation:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/compiled_tools)*** - includes: *VHLT compilation tools* ; *ZHLT .wad and .fgd files*
+- *Installers:* ***[click here](./guide/resources/installers/)*** - includes: *JACK editor's .run file* ; *HLAM .deb file*
+- *Linux shared object files:* ***[click here](./guide/resources/sharedobjects/)*** - includes: *libaudio2 so files*(both in 32 and 64 format) ; *opengl2* ; *Qt5 library*
+- *Compiled tools for map compilation:* ***[click here](./guide/resources/compiled_tools/)*** - includes: *VHLT compilation tools* ; *ZHLT .wad and .fgd files*
+
+- *Depackaged .deb files: **[click here](./guide/resources/dpkg/)*** - includes: *Half-Life asset manager*
 
 ### Todo list:
-- As for now (Aug 8 2025) I will be for a day or two working to combine *`master`* and *`hlam-no-deb`* branches.
+- ~~As for now (Aug 8 2025) I will be for a day or two working to combine *`master`* and *`hlam-no-deb`* branches.~~ (Done)
 
-- On *`hlam-no-deb`* I will create first scratch of non-debian tutorial for hlam instaletion.
+- ~~On *`hlam-no-deb`* I will create first scratch of non-debian tutorial for hlam instaletion.~~ (Aborted)
 
 ### Change list:
 

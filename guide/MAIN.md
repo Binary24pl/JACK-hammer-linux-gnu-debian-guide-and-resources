@@ -7,7 +7,7 @@ First get installer matching your system architecture.
 
 - **(32-bit filename)**: *jack_\<version\>_linux_x86.run*
 - **(64-bit filename)**: *jack_\<version\>_linux_x64.run*
-- **(Local repo filepath)**: *[(repo root)/resources/installers](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/installers)*
+- **(Local repo filepath)**: *[(repo root)/guide/resources/installers](./resources/installers/)*
 - **(External link - homepage of JACK editor)**: *[Download](https://jack.hlfx.ru/en/download.html)* - page
   
 Then create a folder for your J.A.C.K. editor files, I recommend to do it at your ***home directory(~)***:
@@ -34,7 +34,7 @@ At this point, if your installed J.A.C.K. editor isn't launching, even if you ad
 
 - *Side note: libaudio2 isn't required to be anywhere in your system for J.A.C.K. to work, **it only has to be in the root directory of your installed J.A.C.K. files.***
 
-If you don't feel like installing libaudio2 files through *apt manager*, then you can get libaudio2 files ***[here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/sharedobjects)***, from this repo. And use cp command from whereever you installed those files, or install them directly into the JACK root folder.
+If you don't feel like installing libaudio2 files through *apt manager*, then you can get libaudio2 files ***[here](./resources/sharedobjects/)***, from this repo. And use cp command from whereever you installed those files, or install them directly into the JACK root folder.
 - Copy command
 ```sh
 cp libaudio.so.2 ~/JACK
@@ -42,7 +42,7 @@ cp libaudio.so.2 ~/JACK
 
 - *Side note:* **Remember to choose matching architecture!**
 
-**libaudio2 apt instalation guide: [here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/blob/master/guide/LIBA2.md)**
+**libaudio2 apt instalation guide: [here](./LIBA2.md)**
 
 ## Getting HLAM on your system
 - *Side note:* Unfortunately this guide section will only for **64-bit architecture**.
@@ -66,14 +66,14 @@ mkdir <your chosen name>
 
 Once you have done that, you can either download ready for you compiled tools from this repo, or go to the VHLT repository and build tools yourself.
 
-If you chose to use compiled tools from my repo download all the contents **from:*[ (repo root)/resources/compiled_tools](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/compiled_tools)***
+If you chose to use compiled tools from my repo download all the contents **from:*[ (repo root)/guide/resources/compiled_tools](./resources/compiled_tools/)***
 
 And then copy and paste it, do it all from directory where you got compiled tools set installed.
 ```sh
 cp * <your vhlt binaries folder>
 ```
 
-Or follow my guide on how to build VHLT tools on your own ***[here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/blob/master/guide/VHLT.md)***.
+Or follow my guide on how to build VHLT tools on your own ***[here](./VHLT.md)***.
 
 # The end
 
