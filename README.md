@@ -40,3 +40,13 @@ Further more, we will also take dive into solving dependencies issues that come 
 - *Installers:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/installers)*** - includes: *JACK editor's .run file* ; *HLAM .deb file*
 - *Linux shared object files:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/sharedobjects)*** - includes: *libaudio2 so files*(both in 32 and 64 format)
 - *Compiled tools for map compilation:* ***[click here](https://github.com/Binary24pl/JACK-hammer-linux-gnu-debian-guide-and-resources/tree/master/resources/compiled_tools)*** - includes: *VHLT compilation tools* ; *ZHLT .wad and .fgd files*
+
+### Todo list:
+- As for now (Aug 8 2025) I will be for a day or two working to combine *`master`* and *`hlam-no-deb`* branches.
+
+- On *`hlam-no-deb`* I will create first scratch of non-debian tutorial for hlam instaletion.
+
+### Change list:
+
+- ***Aug 8 2025:***
+    - *`hlam-no-deb`* branch contains all necessary resources to make Half-Life asset manager work on non-debian gnu/linux distros.
